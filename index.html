@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <title>Vanilla JS Challenge (Momentum)</title>
+</head>
+<body>
+    <div id="weather">
+        <span></span>
+        <span>temp</span>
+        <span>city</span>
+    </div>
+    <div id="login">
+        <form id="login-form">
+            <div>
+                <input id="name" type="text" autocomplete="off" placeholder="What is your name?" required minlength="2" required maxlength="10"/>
+                <input id="login-button" type="submit" value="로그인"/>            
+            </div>
+        </form>
+    </div>
+    <div id="clock-div">
+        <h2 id="clock">00:00:00</h2>
+    </div>
+    <div id="quote">
+        <span>quote</span>            
+        <span>author</span>
+    </div>
+    <div id="todo">
+        <form id="todo-form">
+            <input id="enter" type="text" autocomplete="off" placeholder="What is your main focus for today?">
+        </form>
+    </div>
+    <div>
+        <ul id="todo-list"></ul>
+    </div>  
+    <script src="login.js"></script>
+    <script src="clock.js"></script>
+    <script src="quote.js"></script>
+    <script src="weather.js"></script>
+    <script src="background.js"></script>
+    <script src="todo.js"></script>
+</body>
+</html>

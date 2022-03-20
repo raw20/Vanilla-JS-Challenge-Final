@@ -1,0 +1,109 @@
+::placeholder {
+    font-size: 20px;
+    color: azure;
+    text-align: center;
+}
+.hidden {
+    display: none;
+}
+.show {
+    font-size: 24px;
+    font-weight:lighter;
+}
+.weather-img {
+    width: 22px;
+    height: 22px;
+}
+.todo-button {
+    margin-left: 25px;
+    margin-top: -20px;
+    position: relative;
+    width: 50px;
+    height: 20px;
+    background: none;
+    border-radius: 6px;
+    border-top: 1px solid azure;
+    border-left: 1px solid azure;
+    border-right: 1px solid azure;
+    border-bottom: 1px solid azure;
+    color: azure;
+    font-size: 10px;
+    font-weight: normal;
+}
+
+body {
+    background-size: 100% 720px;
+    background-repeat: no-repeat;
+    color: azure;
+    top: 10%;
+    left: 40%;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+li {
+    list-style: none;
+}
+
+#weather {
+    height: 15px;
+    font-size: 16px;
+    text-align: right;
+}
+#login {
+    margin-top: 30px;
+    height: 40px;
+}
+#name {
+    outline: none;
+    width: 300px;
+    height: 37px;
+    background:none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: azure;
+    border-bottom: 2px solid azure;
+}
+#login-button {
+    margin-left: 10px;
+    width: 150px;
+    height: 40px;
+    background: none;
+    border-radius: 6px;
+    border-top: 2px solid azure;
+    border-left: 2px solid azure;
+    border-right: 2px solid azure;
+    border-bottom: 2px solid azure;
+    color: azure;
+    font-size: 20px;
+}
+#clock-div {
+    margin-top: -110px;
+}
+#clock {
+    font-size: 190px;
+    font-weight: normal;
+}
+#quote {
+    height: 35px;
+    margin-top: -150px;
+    font-size: 22px;
+}
+#todo {
+    margin-top: 30px;
+    height: 40px;
+}
+#enter{
+    width: 500px;
+    height: 35px;
+    outline: none;
+    background:none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: azure;
+    border-bottom: 2px solid azure;
+}
+#todo-list {
+    font-size: 18px;
+}
