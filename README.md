@@ -3,7 +3,7 @@
 ## 1. display
 ![13](https://user-images.githubusercontent.com/62588402/159166292-4212dec3-fff4-4b9d-b6db-922256c5155e.PNG)
 ## 2. 설명
-HTML, lCSS, Vanilla JS를 이용하였다. 강의를 통해 기본적인 JS 파일을 구현 후 최종 마무리로 HTML, CSS 를 이용하여 디자인을 하였다.
+HTML, CSS, JS를 이용하였다. 강의를 통해 기본적인 JS 파일로 동적 구현 후 최종 마무리로 HTML, CSS 를 이용하여 디자인을 하였다.
 ## 3. Login
 
 ## 4. background
